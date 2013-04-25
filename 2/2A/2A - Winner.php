@@ -53,4 +53,3 @@ foreach ($list as &$val)
 }
 unset($val);
 fclose($fr);
-?>
